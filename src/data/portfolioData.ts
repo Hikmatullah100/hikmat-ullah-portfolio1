@@ -199,9 +199,9 @@ export const portfolioData: PortfolioConfig = {
         'Fully responsive mobile and tablet layout'
       ],
       category: 'Full Stack',
-      thumbnail: '/src/assets/images/project_fintrack_dashboard_1793290112950.jpg',
+      thumbnail: '/images/projects/fintrack-dashboard.jpg',
       galleryImages: [
-        '/src/assets/images/project_fintrack_dashboard_1793290112950.jpg'
+        '/images/projects/fintrack-dashboard.jpg'
       ],
       technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Chart.js', 'Express'],
       githubUrl: undefined,
@@ -230,9 +230,9 @@ export const portfolioData: PortfolioConfig = {
         'Robust validation for shipping and billing forms'
       ],
       category: 'E-Commerce',
-      thumbnail: '/src/assets/images/project_shopvista_ecommerce_1793290113023.jpg',
+      thumbnail: '/images/projects/shopvista-ecommerce.jpg',
       galleryImages: [
-        '/src/assets/images/project_shopvista_ecommerce_1793290113023.jpg'
+        '/images/projects/shopvista-ecommerce.jpg'
       ],
       technologies: ['React', 'Next.js', 'Node.js', 'Tailwind CSS', 'Stripe API'],
       githubUrl: undefined,
