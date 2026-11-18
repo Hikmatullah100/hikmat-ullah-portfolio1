@@ -52,7 +52,7 @@ export const portfolioData: PortfolioConfig = {
       "I'm Hikmat Ullah, a passionate Web Developer focused on building clean, high-performance web applications with modern architecture, responsive interfaces, and seamless user experiences.",
     floatingBannerText: 'Clean Code • Scalable Solutions • Pixel Perfect',
     stats: {
-      yearsExperience: '3+',
+      yearsExperience: '7+',
       projectsCompleted: '15+',
       clientSatisfaction: '99%',
       verified: true,
